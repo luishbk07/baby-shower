@@ -7,11 +7,11 @@ function App() {
   return (
     <>
       <Box sx={{
-        height: '100rem',
+        height: '100vh',
         width: '100%',
         margin: 0,
         backgroundImage: `url(${CloudsBackground})`,
-        backgroundSize: 'contain',
+        backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat'
       }}>
         <OhBaby />
