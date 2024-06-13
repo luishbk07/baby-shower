@@ -1,5 +1,5 @@
 import { Box } from '@mui/material'
-import CloudsBackground from './assets/clouds-background.jpg'
+import CloudsBackground from './assets/clouds-background 2.jpg'
 import OhBaby from './components/OhBaby/OhBaby'
 
 function App() {
